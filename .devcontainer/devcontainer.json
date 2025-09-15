@@ -14,6 +14,10 @@
       "extensions": [
         "linkedinlearning.linkedinlearning-vscode-theme",
         "ritwickdey.liveserver"
+        "esbenp.prettier-vscode",       // Code formatting
+        "dbaeumer.vscode-eslint",       // ESLint for JS linting
+        "formulahendry.code-runner",    // Run small JS snippets inside VS Code
+        "eamodio.gitlens"               // GitLens for version control support
       ]
     }
   },
